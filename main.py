@@ -4,7 +4,7 @@ def main_stuff():
     print("Python is working")
 
 def login():
-    print("Login Page")
+    print("Login Page, We are going to use rebase now")
     name = input("insert name: ")
     print("~~~~Authentification!")
     print("Your name is: ", name)
