@@ -9,10 +9,14 @@ def login():
     print("~~~~Authentification!")
     print("Your name is: ", name)
 
+def cloner_feature():
+    print("this is another feature")
+    print("Coming from the clone")
 
 def main():
     main_stuff()
     login()
+    cloner_feature()
 
 
 if __name__ == "__main__":
